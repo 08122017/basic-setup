@@ -18,5 +18,8 @@
   "homepage": "https://github.com/08122017/basic-setup#readme",
   "dependencies": {
     "bootstrap": "^3.3.7"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
   }
 }
