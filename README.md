@@ -8,4 +8,5 @@
 - [x] css: `.less => .css`
    - [x] add vendor prefixes
    - [x] concat and minify
-- [ ] browser sync
+- [x] browser sync
+- [x] watch and auto update
